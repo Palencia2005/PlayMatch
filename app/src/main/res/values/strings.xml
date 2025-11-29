@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlayMatch</string>
+    <string name="profile_age_format">Edad: %1$d</string>
+    <string name="profile_gender_format">Sexo: %1$s</string>
+    <string name="profile_height_format">Estatura: %1$s</string>
+    <string name="profile_preference_format">Prefiere relacionarse con: %1$s</string>
+</resources>

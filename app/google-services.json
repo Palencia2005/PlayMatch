@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "523720029316",
+    "project_id": "playmatch-84ec3",
+    "storage_bucket": "playmatch-84ec3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523720029316:android:7440cebce5a0744e08bed1",
+        "android_client_info": {
+          "package_name": "com.example.playmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNWF8wL7bUXUxsnwsPRokoFYG4MhqNC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
